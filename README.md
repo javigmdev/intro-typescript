@@ -37,7 +37,7 @@ Are two ways to stop the project:
 ![kill terminal](./assets/img/kill-terminal.png)
 
 ## Run exercises
-1. Copy code of exercise in ```index.ts```
+1. Copy code of exercise in ```index.ts``` and comment all the code of the copied file
 2. Open the browser developer console:
 ![console](./assets/img/browser-developer-console.png)
 
